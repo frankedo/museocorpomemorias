@@ -1,0 +1,35 @@
+{
+   "exposiciones": [
+      {
+         "tipo": "itinerante",
+         "nombre": "Exposición Conmemorativa a los Desaparecido",
+         "fecha": "2016 - 2017",
+         "lugar": "Aguachica, Cesar - Plaza San Roque",
+         "curador": "Corpomemorias",
+         "descripcion": "La galería fotográfica en conmemoración a las víctimas de desaparición forzada tiene como objetivo honrar y visibilizar a las personas desaparecidas y sus historias...",
+         "fotos": ["../assets/imgs/museovirtualimgs/20161103_165205.jpg", "../assets/imgs/museovirtualimgs/20170306_163916.jpg"]
+      },
+     
+      {
+         "tipo": "actual",
+         "nombre": "Exposición en Aguachica",
+         "fecha": "2024-06-15",
+         "lugar": "Aguachica, Cesar",
+         "curador": "Juan Pérez",
+         "descripcion": "Un espacio de memoria histórica...",
+         "fotos": ["ruta/a/imagen3.jpg", "ruta/a/imagen4.jpg"]
+      }
+
+
+
+
+
+
+
+
+
+
+     
+      // Agrega más exposiciones según tus necesidades
+   ]
+}

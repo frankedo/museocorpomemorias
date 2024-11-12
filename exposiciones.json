@@ -9,12 +9,10 @@
          "descripcion": "La galería fotográfica en conmemoración a las víctimas de desaparición forzada tiene como objetivo honrar y visibilizar a las personas desaparecidas y sus historias...",
          "fotos": [
            "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/20161103_165205.jpg",
-    "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/20170306_163916.jpg"
+           "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/20170306_163916.jpg"
          ]
       },
-
-
- {
+      {
          "tipo": "itinerante",
          "nombre": "Exposición Conmemorativa a los Desaparecidos DDHH con Defensoria del Pueblo",
          "fecha": "2020",
@@ -25,10 +23,7 @@
            "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/IMG_20201210_074552_863.jpg"
          ]
       },
-
-
-
-       {
+      {
          "tipo": "itinerante",
          "nombre": "Exposición Conmemorativa en el Conversatorio arte y desaparición forzada",
          "fecha": "2023",
@@ -39,9 +34,7 @@
            "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/IMG_20~1.JPG"
          ]
       },
-
-
-       {
+      {
          "tipo": "itinerante",
          "nombre": "Conversatorio y Exposición de Arte con Totumo",
          "fecha": "2023",
@@ -52,23 +45,18 @@
            "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/IMG_20210525_184729.jpg"
          ]
       },
-
-
-       {
+      {
          "tipo": "itinerante",
          "nombre": "Exposición Conmemorativa en el encuentro de Poetas y Escritores en Aguachica, Cesar",
          "fecha": "2021",
-         "lugar": "Aguachica, Cesar - Sede Corpomemorias"
+         "lugar": "Aguachica, Cesar - Sede Corpomemorias",
          "curador": "Corpomemorias",
          "descripcion": "Se expusieron la galería y se permitió la interacción de la comunidad con la exposición",
          "fotos": [
            "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/IMG_20210923_154830_123.jpg", 
-            "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/IMG_20210923_154858_044.jpg"
+           "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/IMG_20210923_154858_044.jpg"
          ]
       },
-
-
-      
       {
          "tipo": "actual",
          "nombre": "Exposición en Aguachica",

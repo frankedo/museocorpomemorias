@@ -30,7 +30,8 @@
          "curador": "Corpomemorias",
          "descripcion": "La galería fotográfica en conmemoración a las víctimas de desaparición forzada tiene como objetivo honrar y visibilizar a las personas desaparecidas y sus historias, en el marco de la 19° edición Fiesta del Libro",
          "fotos": [
-           
+           "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/IMG_20230908_154912_801.jpg", 
+           "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/IMG_20230908_160703_0.jpg"
          ]
       },
       {

@@ -8,7 +8,9 @@
          "curador": "Corpomemorias",
          "descripcion": "La galería fotográfica en conmemoración a las víctimas de desaparición forzada tiene como objetivo honrar y visibilizar a las personas desaparecidas y sus historias...",
          "fotos": [
-          
+           "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/20170306_163632.jpg", 
+            "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/20170306_163643.jpg", 
+            "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/20170306_163916.jpg"
          ]
       },
       {
@@ -19,8 +21,8 @@
          "curador": "Corpomemorias",
          "descripcion": "La galería fotográfica en conmemoración a las víctimas de desaparición forzada tiene como objetivo honrar y visibilizar a las personas desaparecidas y sus historias...",
          "fotos": [
-           "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/assets/imgs/museovirtualimgs/IMG_20201210_074552_863(1).jpg",
-           "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/assets/imgs/museovirtualimgs/IMG-20201210-WA0011.jpg"
+           "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/IMG_20201210_074552_863(1).jpg",
+           "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/IMG-20201210-WA0011.jpg"
             ]
       },
       {

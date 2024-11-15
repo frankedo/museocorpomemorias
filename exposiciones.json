@@ -8,8 +8,7 @@
          "curador": "Corpomemorias",
          "descripcion": "La galería fotográfica en conmemoración a las víctimas de desaparición forzada tiene como objetivo honrar y visibilizar a las personas desaparecidas y sus historias...",
          "fotos": [
-           "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/20161103_165205.jpg",
-           "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/20170306_163916.jpg"
+          
          ]
       },
       {
@@ -31,7 +30,7 @@
          "curador": "Corpomemorias",
          "descripcion": "La galería fotográfica en conmemoración a las víctimas de desaparición forzada tiene como objetivo honrar y visibilizar a las personas desaparecidas y sus historias, en el marco de la 19° edición Fiesta del Libro",
          "fotos": [
-           "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/IMG_20~1.JPG"
+           
          ]
       },
       {
@@ -54,8 +53,9 @@
          "curador": "Corpomemorias",
          "descripcion": "Se expusieron la galería y se permitió la interacción de la comunidad con la exposición",
          "fotos": [
-           "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/IMG_20210923_154830_123.jpg", 
-           "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/IMG_20210923_154858_044.jpg"
+            "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/IMG_20210923_154845_636.jpg", 
+            "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/IMG_20210923_154858_044.jpg", 
+            "https://raw.githubusercontent.com/frankedo/corpomemoriasweb/main/assets/imgs/museovirtualimgs/IMG_20210923_162423_209.jpg"
          ]
       },
       {
